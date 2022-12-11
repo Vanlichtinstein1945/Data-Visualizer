@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2022-09-20T18:55:20.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YLyFouZ3Au8Q3TGATvi4" version="20.3.3" type="github" pages="3">
+  <diagram id="dredKK3kPEjf5sC-nhx5" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="296LX0kJDEPLhYGs-pcD-1" value="Main Window" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="700" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-2" value="Data Builder Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-1">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-3" value="Data Builder Panel" style="swimlane;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-1">
+          <mxGeometry y="80" width="700" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-4" value="Patient Id / Existing Panel Dropdown Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="20" y="50" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-5" value="Timebox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="25" y="268" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-6" value="Data to Display &lt;br&gt;Selection Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="245.5" y="53" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-7" value="Create New Panel&lt;br&gt;Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="540" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-10" value="Update Panel&lt;br&gt;Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="540" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="296LX0kJDEPLhYGs-pcD-12" value="UTC / Local Time Selector" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="296LX0kJDEPLhYGs-pcD-3">
+          <mxGeometry x="248.5" y="268" width="165.52" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8HZK15Q0EfiEEUhx8xKc" name="Page-2">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-1" value="Main Window" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="48" y="70" width="700" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-2" value="Data Builder Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-1">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-3" value="Data Panel A" style="swimlane;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-1">
+          <mxGeometry y="80" width="700" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-4" value="Patient Id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="7" y="30" width="115" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-6" value="Plot Sensor Data A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="7" y="84" width="358" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-7" value="Timebox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="551" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-8" value="UTC/Local Time Toggle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="551" y="106" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-12" value="Plot Sensor Data C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="7" y="346" width="357" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-11" value="Plot Sensor Data B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="7" y="215" width="356" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-13" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="73" y="477" width="28" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MtK9HAOIWM41lRYsLnEL-1" value="Aggregate Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-3">
+          <mxGeometry x="551" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmMfMXd3Vjk9E3a_WQbr-10" value="Data Panel A Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lmMfMXd3Vjk9E3a_WQbr-1">
+          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h4zy86VA11wBFgwCgoM1" name="Page-3">
+    <mxGraphModel dx="630" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-1" value="Main Window" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="48" y="70" width="700" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-2" value="Data Builder Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-1">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-3" value="Data Panel A" style="swimlane;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-1">
+          <mxGeometry y="80" width="700" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-4" value="Patient Id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="7" y="30" width="115" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-5" value="Aggregate Data A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="7" y="84" width="684" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-10" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="73" y="477" width="28" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-37" value="Aggregate Data B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="8" y="231" width="684" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-36" value="Aggregate Data C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="8" y="360" width="684" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-38" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="327" y="482" width="28" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-39" value="Timebox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-3">
+          <mxGeometry x="155" y="30" width="108" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-12" value="Data Panel A Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-1">
+          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SL9D9ycsEYWnFnFlBuoh-14" value="Aggregate Panel A Tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SL9D9ycsEYWnFnFlBuoh-1">
+          <mxGeometry x="240" y="20" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
